@@ -45,6 +45,7 @@ Highlights:
 ---
 
 ### Moor Kits Automation (UAE Maintenance Company)
+https://www.notion.so/Moor-Kits-Shopify-WhatsApp-Automation-System-382c2e36d0e480468ac0c37c184eb794
 
 Industry:
 E-commerce
