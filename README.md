@@ -5,6 +5,7 @@ AI Automation Engineer & Full Stack Developer
 ## Projects
 
 ### Touq Operation System (UAE Maintenance Company)
+https://www.notion.so/Touq-Operation-System-382c2e36d0e4806eae32f6601a63cb8a
 
 Industry:
 Maintenance Operations
